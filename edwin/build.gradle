@@ -54,7 +54,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.ecolque'
                 artifactId = 'testStripe'
-                version = '1.0'
+                version = '2.0'
             }
         }
     }
